@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Stock Predictor",
+  "description": "An application that provides an initial ML-based stock prediction and then uses the Gemini API with Google Search to generate a refined, context-aware analysis based on recent news and data.",
+  "requestFramePermissions": []
+}
